@@ -1,0 +1,25 @@
+{
+  "name": "650-team-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koldovsky/650-team-06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koldovsky/650-team-06/issues"
+  },
+  "homepage": "https://github.com/koldovsky/650-team-06#readme",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
